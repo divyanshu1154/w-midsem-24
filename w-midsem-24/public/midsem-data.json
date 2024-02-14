@@ -1,0 +1,638 @@
+[
+  {
+    "Code": "LA315",
+    "Name": "Chinese Beginner 2",
+    "Date": 19,
+    "Slot": 1
+  },
+  {
+    "Code": "MAL510/MA510",
+    "Name": "Elementary Number Theory",
+    "Date": 19,
+    "Slot": 1
+  },
+  {
+    "Code": "MAL405/MA504",
+    "Name": "Differential Equations",
+    "Date": 19,
+    "Slot": 1
+  },
+  {
+    "Code": "CS101",
+    "Name": "Discrete Structures-I",
+    "Date": 19,
+    "Slot": 1
+  },
+  {
+    "Code": "MEL614/ME615",
+    "Name": "Computational Fluid Dynamics",
+    "Date": 19,
+    "Slot": 1
+  },
+  {
+    "Code": "(BML615/BM615)TPL605/TP605",
+    "Name": "Biomaterials Science and Engineering",
+    "Date": 19,
+    "Slot": 2
+  },
+  {
+    "Code": "CSL601/CS552",
+    "Name": "Network Science",
+    "Date": 19,
+    "Slot": 2
+  },
+  {
+    "Code": "CYL508",
+    "Name": "Organic Photochemistry and Pericyclic reactions",
+    "Date": 19,
+    "Slot": 2
+  },
+  {
+    "Code": "DS200",
+    "Name": "Architecture for Management of Large Datasets",
+    "Date": 19,
+    "Slot": 2
+  },
+  {
+    "Code": "(LAL733)TPL626",
+    "Name": "Statistical Analysis",
+    "Date": 19,
+    "Slot": 2
+  },
+  {
+    "Code": "ME352",
+    "Name": "Manufacturing Science II",
+    "Date": 19,
+    "Slot": 2
+  },
+  {
+    "Code": "MEL623/ME515",
+    "Name": "Engine management system and Alternative Fuels",
+    "Date": 19,
+    "Slot": 2
+  },
+  {
+    "Code": "MEL656/ME557",
+    "Name": "Laser Materials Processing",
+    "Date": 19,
+    "Slot": 2
+  },
+  {
+    "Code": "EEL101",
+    "Name": "Basic Electrical Engineering",
+    "Date": 19,
+    "Slot": 2
+  },
+  {
+    "Code": "CS252",
+    "Name": "Algorithms II",
+    "Date": 19,
+    "Slot": 2
+  },
+  {
+    "Code": "(BML614/BM614)TPL602/TP602",
+    "Name": "BIoMEMS and Biosensor",
+    "Date": 19,
+    "Slot": 3
+  },
+  {
+    "Code": "CSL516/CS516",
+    "Name": "Parallelization of Programs",
+    "Date": 19,
+    "Slot": 3
+  },
+  {
+    "Code": "CYL510",
+    "Name": "Physical Organic Chemistry",
+    "Date": 19,
+    "Slot": 3
+  },
+  {
+    "Code": "EEL622/EE574",
+    "Name": "Power Quality",
+    "Date": 19,
+    "Slot": 3
+  },
+  {
+    "Code": "(LAL735)TPL622",
+    "Name": "Culture and the Study of Human Strengths",
+    "Date": 19,
+    "Slot": 3
+  },
+  {
+    "Code": "ME413",
+    "Name": "Refrigeration and Air-Conditioning",
+    "Date": 19,
+    "Slot": 3
+  },
+  {
+    "Code": "MML554/MM554",
+    "Name": "Computational Methods in Materials Science",
+    "Date": 19,
+    "Slot": 3
+  },
+  {
+    "Code": "PHL611/PH611",
+    "Name": "Applied optics",
+    "Date": 19,
+    "Slot": 3
+  },
+  {
+    "Code": "MAL101/IC104/IC152",
+    "Name": "Mathematics-II",
+    "Date": 19,
+    "Slot": 3
+  },
+  {
+    "Code": "CS250",
+    "Name": "Operating Systems",
+    "Date": 19,
+    "Slot": 3
+  },
+  {
+    "Code": "BML101",
+    "Name": "Biology for Engineers",
+    "Date": 20,
+    "Slot": 1
+  },
+  {
+    "Code": "CYL504",
+    "Name": "Thermodynamics and Statistical Mechanics",
+    "Date": 20,
+    "Slot": 1
+  },
+  {
+    "Code": "CSL559/CS559",
+    "Name": "Computer System Design",
+    "Date": 20,
+    "Slot": 1
+  },
+  {
+    "Code": "CSL504/CS502",
+    "Name": "Graph theory and applications",
+    "Date": 20,
+    "Slot": 1
+  },
+  {
+    "Code": "ECL599/EC599",
+    "Name": "Wireless Communication Security with SDRs",
+    "Date": 20,
+    "Slot": 1
+  },
+  {
+    "Code": "ME232",
+    "Name": "Dynamics",
+    "Date": 20,
+    "Slot": 1
+  },
+  {
+    "Code": "MEL655/ME652",
+    "Name": "Automation in Production Systems",
+    "Date": 20,
+    "Slot": 1
+  },
+  {
+    "Code": "MTL655",
+    "Name": "Automation in Production Systems",
+    "Date": 20,
+    "Slot": 1
+  },
+  {
+    "Code": "PHL509/PH509",
+    "Name": "Nuclear and Particle Physics",
+    "Date": 20,
+    "Slot": 1
+  },
+  {
+    "Code": "CS254",
+    "Name": "Database Management Systems",
+    "Date": 20,
+    "Slot": 1
+  },
+  {
+    "Code": "CYL603/CY624",
+    "Name": "Chemistry of Heterocyclic Compounds and Natural Products",
+    "Date": 20,
+    "Slot": 1
+  },
+  {
+    "Code": "LA351",
+    "Name": "Elements of World Literature",
+    "Date": 20,
+    "Slot": 1
+  },
+  {
+    "Code": "IC250",
+    "Name": "Materials Chemistry II",
+    "Date": 20,
+    "Slot": 2
+  },
+  {
+    "Code": "CSL604/CS620",
+    "Name": "Mobile and Wireless Networks",
+    "Date": 20,
+    "Slot": 2
+  },
+  {
+    "Code": "CSL622/CS621",
+    "Name": "Quantum Computing and Reversible Logic Design",
+    "Date": 20,
+    "Slot": 3
+  },
+  {
+    "Code": "CS550",
+    "Name": "Machine Learning",
+    "Date": 20,
+    "Slot": 3
+  },
+  {
+    "Code": "EE204",
+    "Name": "Analog Circuits",
+    "Date": 20,
+    "Slot": 3
+  },
+  {
+    "Code": "LAL731",
+    "Name": "Advanced Positive Psychology",
+    "Date": 20,
+    "Slot": 3
+  },
+  {
+    "Code": "MAL514/MA509",
+    "Name": "Statistical Inference",
+    "Date": 20,
+    "Slot": 3
+  },
+  {
+    "Code": "ME334",
+    "Name": "Design of Machine Elements",
+    "Date": 20,
+    "Slot": 3
+  },
+  {
+    "Code": "MEL651/ME560",
+    "Name": "Additive Manufacturing",
+    "Date": 20,
+    "Slot": 3
+  },
+  {
+    "Code": "MT251",
+    "Name": "Embedded System for Mechanical Controls",
+    "Date": 20,
+    "Slot": 3
+  },
+  {
+    "Code": "PHL607/PH513",
+    "Name": "Experimental and Measurement techniques",
+    "Date": 20,
+    "Slot": 3
+  },
+  {
+    "Code": "ECL101",
+    "Name": "Basic Electronics Engineering",
+    "Date": 20,
+    "Slot": 3
+  },
+  {
+    "Code": "CSL607/CS607",
+    "Name": "Adversarial Machine Learning: Security and Privacy of ML",
+    "Date": 21,
+    "Slot": 1
+  },
+  {
+    "Code": "CSL610/TP639",
+    "Name": "lower bound and Impossibilities",
+    "Date": 21,
+    "Slot": 1
+  },
+  {
+    "Code": "CYL505",
+    "Name": "Organic Reactions and Reagents",
+    "Date": 21,
+    "Slot": 1
+  },
+  {
+    "Code": "EEL602/EE572",
+    "Name": "Advance Sensing Technique",
+    "Date": 21,
+    "Slot": 1
+  },
+  {
+    "Code": "MAL604/MA611",
+    "Name": "Stochastic Processes",
+    "Date": 21,
+    "Slot": 1
+  },
+  {
+    "Code": "MEL658",
+    "Name": "Mechanical Behaviour and testing of materials",
+    "Date": 21,
+    "Slot": 1
+  },
+  {
+    "Code": "PHL507/PH506",
+    "Name": "Statistical Mechanics",
+    "Date": 21,
+    "Slot": 1
+  },
+  {
+    "Code": "CS251",
+    "Name": "Introduction to Language Processing",
+    "Date": 21,
+    "Slot": 1
+  },
+  {
+    "Code": "EE208",
+    "Name": "Electrical Machines",
+    "Date": 21,
+    "Slot": 1
+  },
+  {
+    "Code": "(LAL249)TP624",
+    "Name": "Introduction to Understanding Psychological Disorders",
+    "Date": 21,
+    "Slot": 2
+  },
+  {
+    "Code": "MEL637/ME637",
+    "Name": "Wave Propagation in Structures",
+    "Date": 21,
+    "Slot": 2
+  },
+  {
+    "Code": "LA346",
+    "Name": "Microeconomics 2",
+    "Date": 21,
+    "Slot": 2
+  },
+  {
+    "Code": "MAL406",
+    "Name": "Numerical Analysis",
+    "Date": 21,
+    "Slot": 2
+  },
+  {
+    "Code": "EEL603/EE573",
+    "Name": "Optimal Control",
+    "Date": 21,
+    "Slot": 3
+  },
+  {
+    "Code": "PHL610/PH610",
+    "Name": "Science and Technology in Thin Films",
+    "Date": 21,
+    "Slot": 3
+  },
+  {
+    "Code": "EVL600/EV639",
+    "Name": "Battery Chemistry- Components and Manufacturing",
+    "Date": 21,
+    "Slot": 3
+  },
+  {
+    "Code": "MAL501",
+    "Name": "Complex Analysis",
+    "Date": 21,
+    "Slot": 3
+  },
+  {
+    "Code": "MEL622/ME653",
+    "Name": "Experimental Methods in Fluids and Thermal Science",
+    "Date": 21,
+    "Slot": 3
+  },
+  {
+    "Code": "IC251",
+    "Name": "Basics of Bioinformatics",
+    "Date": 21,
+    "Slot": 3
+  },
+  {
+    "Code": "CYL507",
+    "Name": "Chemistry of Main Group Elements",
+    "Date": 22,
+    "Slot": 1
+  },
+  {
+    "Code": "ECL604/EE604",
+    "Name": "Signal Processing Algorithms to DSP Architectures",
+    "Date": 22,
+    "Slot": 1
+  },
+  {
+    "Code": "MEL613/ME513",
+    "Name": "Convective Heat Transfer",
+    "Date": 22,
+    "Slot": 1
+  },
+  {
+    "Code": "MTL602/MT551",
+    "Name": "Design and Analysis of Robotic System",
+    "Date": 22,
+    "Slot": 1
+  },
+  {
+    "Code": "MT252",
+    "Name": "Fundamental of Robotics",
+    "Date": 22,
+    "Slot": 1
+  },
+  {
+    "Code": "PHL510/PH511",
+    "Name": "Atomic and Molecular Physics",
+    "Date": 22,
+    "Slot": 1
+  },
+  {
+    "Code": "DSL601/DS501",
+    "Name": "Information Retrieval",
+    "Date": 22,
+    "Slot": 1
+  },
+  {
+    "Code": "LA312",
+    "Name": "Chinese Beginner 4",
+    "Date": 22,
+    "Slot": 1
+  },
+  {
+    "Code": "DS201",
+    "Name": "Statistical Programming",
+    "Date": 22,
+    "Slot": 1
+  },
+  {
+    "Code": "LA356",
+    "Name": "Chinese Basic 5",
+    "Date": 22,
+    "Slot": 1
+  },
+  {
+    "Code": "CS102",
+    "Name": "Data Structures",
+    "Date": 22,
+    "Slot": 1
+  },
+  {
+    "Code": "LA303",
+    "Name": "Chinese Beginner 1",
+    "Date": 22,
+    "Slot": 2
+  },
+  {
+    "Code": "LA354",
+    "Name": "Introduction to Postcolonial Literature",
+    "Date": 22,
+    "Slot": 2
+  },
+  {
+    "Code": "LA365",
+    "Name": "Applied Positive Psychology",
+    "Date": 22,
+    "Slot": 2
+  },
+  {
+    "Code": "CSL603/CS554",
+    "Name": "Block Chain Technologies",
+    "Date": 22,
+    "Slot": 3
+  },
+  {
+    "Code": "MAL500/MA508",
+    "Name": "Topology",
+    "Date": 22,
+    "Slot": 3
+  },
+  {
+    "Code": "PHL508/PH512",
+    "Name": "Solid State Physics",
+    "Date": 22,
+    "Slot": 3
+  },
+  {
+    "Code": "BML551",
+    "Name": "Instrumentation in Biomedical Engineering",
+    "Date": 22,
+    "Slot": 3
+  },
+  {
+    "Code": "LA305",
+    "Name": "City in Literature",
+    "Date": 23,
+    "Slot": 1
+  },
+  {
+    "Code": "CS300",
+    "Name": "Principles of Programming Languages",
+    "Date": 23,
+    "Slot": 1
+  },
+  {
+    "Code": "LA327",
+    "Name": "Introduction to Partition Literature",
+    "Date": 23,
+    "Slot": 1
+  },
+  {
+    "Code": "MEL633/ME633",
+    "Name": "Finite Element Method",
+    "Date": 23,
+    "Slot": 1
+  },
+  {
+    "Code": "CS253",
+    "Name": "Theory of Computation II",
+    "Date": 23,
+    "Slot": 2
+  },
+  {
+    "Code": "CYL610/TP617",
+    "Name": "Solar Energy Harvesting Materials",
+    "Date": 23,
+    "Slot": 2
+  },
+  {
+    "Code": "ECL511/EE522",
+    "Name": "Machine Learning Applications for Wireless Communications",
+    "Date": 23,
+    "Slot": 2
+  },
+  {
+    "Code": "EE205",
+    "Name": "Power Engineering - I",
+    "Date": 23,
+    "Slot": 2
+  },
+  {
+    "Code": "EVL503/EE575",
+    "Name": "Motor Drives for EV",
+    "Date": 23,
+    "Slot": 2
+  },
+  {
+    "Code": "(LAL734)TPL625",
+    "Name": "Allied Health Studies",
+    "Date": 23,
+    "Slot": 2
+  },
+  {
+    "Code": "MT253",
+    "Name": "Hydraulics and Pneumatics Systems",
+    "Date": 23,
+    "Slot": 2
+  },
+  {
+    "Code": "PHL604/PH606",
+    "Name": "Particle Physics",
+    "Date": 23,
+    "Slot": 2
+  },
+  {
+    "Code": "MAL502",
+    "Name": "Functional Analysis",
+    "Date": 23,
+    "Slot": 2
+  },
+  {
+    "Code": "MEP102/IC101/CA100",
+    "Name": "Digital fabrication",
+    "Date": 23,
+    "Slot": 2
+  },
+  {
+    "Code": "LA357",
+    "Name": "Chinese Basic 6",
+    "Date": 23,
+    "Slot": 2
+  },
+  {
+    "Code": "(BML616/BM616)TPL601/TP601",
+    "Name": "Bioanalytical Methods",
+    "Date": 23,
+    "Slot": 2
+  },
+  {
+    "Code": "DS251",
+    "Name": "Artificial Intelligence",
+    "Date": 23,
+    "Slot": 2
+  },
+  {
+    "Code": "DS100",
+    "Name": "Mathematical Foundations of Data science",
+    "Date": 23,
+    "Slot": 2
+  },
+  {
+    "Code": "CYL506/CY509",
+    "Name": "Bioinorganic Chemistry",
+    "Date": 23,
+    "Slot": 3
+  },
+  {
+    "Code": "ME213",
+    "Name": "Heat and Mass Transfer",
+    "Date": 23,
+    "Slot": 3
+  }
+]
