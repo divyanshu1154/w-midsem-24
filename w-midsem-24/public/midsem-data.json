@@ -48,7 +48,7 @@
     "Slot": 2
   },
   {
-    "Code": "DS200",
+    "Code": "DS240",
     "Name": "Architecture for Management of Large Datasets",
     "Date": 19,
     "Slot": 2
@@ -150,150 +150,6 @@
     "Slot": 3
   },
   {
-    "Code": "BML101",
-    "Name": "Biology for Engineers",
-    "Date": 20,
-    "Slot": 1
-  },
-  {
-    "Code": "CYL504",
-    "Name": "Thermodynamics and Statistical Mechanics",
-    "Date": 20,
-    "Slot": 1
-  },
-  {
-    "Code": "CSL559/CS559",
-    "Name": "Computer System Design",
-    "Date": 20,
-    "Slot": 1
-  },
-  {
-    "Code": "CSL504/CS502",
-    "Name": "Graph theory and applications",
-    "Date": 20,
-    "Slot": 1
-  },
-  {
-    "Code": "ECL599/EC599",
-    "Name": "Wireless Communication Security with SDRs",
-    "Date": 20,
-    "Slot": 1
-  },
-  {
-    "Code": "ME232",
-    "Name": "Dynamics",
-    "Date": 20,
-    "Slot": 1
-  },
-  {
-    "Code": "MEL655/ME652",
-    "Name": "Automation in Production Systems",
-    "Date": 20,
-    "Slot": 1
-  },
-  {
-    "Code": "MTL655",
-    "Name": "Automation in Production Systems",
-    "Date": 20,
-    "Slot": 1
-  },
-  {
-    "Code": "PHL509/PH509",
-    "Name": "Nuclear and Particle Physics",
-    "Date": 20,
-    "Slot": 1
-  },
-  {
-    "Code": "CS254",
-    "Name": "Database Management Systems",
-    "Date": 20,
-    "Slot": 1
-  },
-  {
-    "Code": "CYL603/CY624",
-    "Name": "Chemistry of Heterocyclic Compounds and Natural Products",
-    "Date": 20,
-    "Slot": 1
-  },
-  {
-    "Code": "LA351",
-    "Name": "Elements of World Literature",
-    "Date": 20,
-    "Slot": 1
-  },
-  {
-    "Code": "IC250",
-    "Name": "Materials Chemistry II",
-    "Date": 20,
-    "Slot": 2
-  },
-  {
-    "Code": "CSL604/CS620",
-    "Name": "Mobile and Wireless Networks",
-    "Date": 20,
-    "Slot": 2
-  },
-  {
-    "Code": "CSL622/CS621",
-    "Name": "Quantum Computing and Reversible Logic Design",
-    "Date": 20,
-    "Slot": 3
-  },
-  {
-    "Code": "CS550",
-    "Name": "Machine Learning",
-    "Date": 20,
-    "Slot": 3
-  },
-  {
-    "Code": "EE204",
-    "Name": "Analog Circuits",
-    "Date": 20,
-    "Slot": 3
-  },
-  {
-    "Code": "LAL731",
-    "Name": "Advanced Positive Psychology",
-    "Date": 20,
-    "Slot": 3
-  },
-  {
-    "Code": "MAL514/MA509",
-    "Name": "Statistical Inference",
-    "Date": 20,
-    "Slot": 3
-  },
-  {
-    "Code": "ME334",
-    "Name": "Design of Machine Elements",
-    "Date": 20,
-    "Slot": 3
-  },
-  {
-    "Code": "MEL651/ME560",
-    "Name": "Additive Manufacturing",
-    "Date": 20,
-    "Slot": 3
-  },
-  {
-    "Code": "MT251",
-    "Name": "Embedded System for Mechanical Controls",
-    "Date": 20,
-    "Slot": 3
-  },
-  {
-    "Code": "PHL607/PH513",
-    "Name": "Experimental and Measurement techniques",
-    "Date": 20,
-    "Slot": 3
-  },
-  {
-    "Code": "ECL101",
-    "Name": "Basic Electronics Engineering",
-    "Date": 20,
-    "Slot": 3
-  },
-  {
     "Code": "CSL607/CS607",
     "Name": "Adversarial Machine Learning: Security and Privacy of ML",
     "Date": 21,
@@ -342,7 +198,7 @@
     "Slot": 1
   },
   {
-    "Code": "EE208",
+    "Code": "EE248",
     "Name": "Electrical Machines",
     "Date": 21,
     "Slot": 1
@@ -456,7 +312,7 @@
     "Slot": 1
   },
   {
-    "Code": "DS201",
+    "Code": "DS241",
     "Name": "Statistical Programming",
     "Date": 22,
     "Slot": 1
@@ -558,7 +414,7 @@
     "Slot": 2
   },
   {
-    "Code": "EE205",
+    "Code": "EE245",
     "Name": "Power Engineering - I",
     "Date": 23,
     "Slot": 2
@@ -633,6 +489,150 @@
     "Code": "ME213",
     "Name": "Heat and Mass Transfer",
     "Date": 23,
+    "Slot": 3
+  },
+ {
+    "Code": "BML101",
+    "Name": "Biology for Engineers",
+    "Date": 24,
+    "Slot": 1
+  },
+  {
+    "Code": "CYL504",
+    "Name": "Thermodynamics and Statistical Mechanics",
+    "Date": 24,
+    "Slot": 1
+  },
+  {
+    "Code": "CSL559/CS559",
+    "Name": "Computer System Design",
+    "Date": 24,
+    "Slot": 1
+  },
+  {
+    "Code": "CSL504/CS502",
+    "Name": "Graph theory and applications",
+    "Date": 24,
+    "Slot": 1
+  },
+  {
+    "Code": "ECL599/EC599",
+    "Name": "Wireless Communication Security with SDRs",
+    "Date": 24,
+    "Slot": 1
+  },
+  {
+    "Code": "ME232",
+    "Name": "Dynamics",
+    "Date": 24,
+    "Slot": 1
+  },
+  {
+    "Code": "MEL655/ME652",
+    "Name": "Automation in Production Systems",
+    "Date": 24,
+    "Slot": 1
+  },
+  {
+    "Code": "MTL655",
+    "Name": "Automation in Production Systems",
+    "Date": 24,
+    "Slot": 1
+  },
+  {
+    "Code": "PHL509/PH509",
+    "Name": "Nuclear and Particle Physics",
+    "Date": 24,
+    "Slot": 1
+  },
+  {
+    "Code": "CS254",
+    "Name": "Database Management Systems",
+    "Date": 24,
+    "Slot": 1
+  },
+  {
+    "Code": "CYL603/CY624",
+    "Name": "Chemistry of Heterocyclic Compounds and Natural Products",
+    "Date": 24,
+    "Slot": 1
+  },
+  {
+    "Code": "LA351",
+    "Name": "Elements of World Literature",
+    "Date": 24,
+    "Slot": 1
+  },
+  {
+    "Code": "IC250",
+    "Name": "Materials Chemistry II",
+    "Date": 24,
+    "Slot": 2
+  },
+  {
+    "Code": "CSL604/CS624",
+    "Name": "Mobile and Wireless Networks",
+    "Date": 24,
+    "Slot": 2
+  },
+  {
+    "Code": "CSL622/CS621",
+    "Name": "Quantum Computing and Reversible Logic Design",
+    "Date": 24,
+    "Slot": 3
+  },
+  {
+    "Code": "CS550",
+    "Name": "Machine Learning",
+    "Date": 24,
+    "Slot": 3
+  },
+  {
+    "Code": "EE244",
+    "Name": "Analog Circuits",
+    "Date": 24,
+    "Slot": 3
+  },
+  {
+    "Code": "LAL731",
+    "Name": "Advanced Positive Psychology",
+    "Date": 24,
+    "Slot": 3
+  },
+  {
+    "Code": "MAL514/MA509",
+    "Name": "Statistical Inference",
+    "Date": 24,
+    "Slot": 3
+  },
+  {
+    "Code": "ME334",
+    "Name": "Design of Machine Elements",
+    "Date": 24,
+    "Slot": 3
+  },
+  {
+    "Code": "MEL651/ME560",
+    "Name": "Additive Manufacturing",
+    "Date": 24,
+    "Slot": 3
+  },
+  {
+    "Code": "MT251",
+    "Name": "Embedded System for Mechanical Controls",
+    "Date": 24,
+    "Slot": 3
+  },
+  {
+    "Code": "PHL607/PH513",
+    "Name": "Experimental and Measurement techniques",
+    "Date": 24,
+    "Slot": 3
+  },
+  {
+    "Code": "ECL101",
+    "Name": "Basic Electronics Engineering",
+    "Date": 24,
     "Slot": 3
   }
 ]
